@@ -94,7 +94,7 @@ Notices:
     <message>
         <location filename="../dialog/convolver.ui" line="109"/>
         <source>Local</source>
-        <translation>本地存储</translation>
+        <translation>本地文件</translation>
     </message>
     <message>
         <location filename="../dialog/convolver.ui" line="132"/>
@@ -127,7 +127,7 @@ Notices:
     <message>
         <location filename="../dialog/convolverdlg.cpp" line="102"/>
         <source>Add some IRS files in the &apos;filesystem&apos; tab</source>
-        <translation>在“文件系统”选项卡中添加一些 IRS 文件</translation>
+        <translation>在“本地文件”选项卡中添加一些 IRS 文件</translation>
     </message>
     <message>
         <location filename="../dialog/convolverdlg.cpp" line="112"/>
@@ -176,8 +176,7 @@ Notices:
         <source>Thank you for installing this app!
 However, before you can begin playing around with Viper4Linux, we&apos;ll need to make some adjustments in order to ensure the best possible experience with Viper.</source>
         <translation>感谢您安装此应用程序！
-但是在您使用 Viper4Linux 之前，我们需要进行一些调整以确保您使用 ViperFX 时获得最佳体验。
- #中文翻译v1.2preview</translation>
+但是在您使用 Viper4Linux 之前，我们需要进行一些调整以确保您使用 ViperFX 时获得最佳体验。</translation>
     </message>
     <message>
         <location filename="../dialog/firstlaunchwizard.ui" line="209"/>
@@ -191,7 +190,7 @@ However, before you can begin playing around with Viper4Linux, we&apos;ll need t
 Make sure you installed Viper4Linux correctly and double-check the README instructions.
 You can also run &apos;gst-inspect-1.0 viperfx&apos; to check if the plugin was correctly installed.</source>
         <translation>找不到 GStreamer viperfx 插件。
-请确保您正确安装了 Viper4Linux 并仔细检查 README 说明。
+请确保您正确安装了 Viper4Linux 并仔细阅读 README 说明。
 您还可以运行“gst-inspect-1.0 viperfx”来检查插件是否正确安装。</translation>
     </message>
     <message>
@@ -412,7 +411,7 @@ While this GUI is still backward-compatible, I recommend you to upgrade to the A
     <message>
         <location filename="../dialog/preset.ui" line="201"/>
         <source>GitHub</source>
-        <translation>GitHub</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../dialog/preset.ui" line="235"/>
@@ -437,7 +436,7 @@ While this GUI is still backward-compatible, I recommend you to upgrade to the A
         <location filename="../dialog/presetdlg.cpp" line="65"/>
         <location filename="../dialog/presetdlg.cpp" line="74"/>
         <source>Linux Configuration</source>
-        <translation>Linux 配置</translation>
+        <translation>Linux配置</translation>
     </message>
     <message>
         <location filename="../dialog/presetdlg.cpp" line="71"/>
@@ -568,7 +567,7 @@ While this GUI is still backward-compatible, I recommend you to upgrade to the A
         <location filename="../misc/converter.cpp" line="30"/>
         <source>Syntax error line %1, column %2:
 %3</source>
-        <translation>语法错误行 %1，列 %2:
+        <translation>语法错误%1行，%2列:
 %3</translation>
     </message>
     <message>
@@ -589,7 +588,7 @@ While this GUI is still backward-compatible, I recommend you to upgrade to the A
         <location filename="../misc/converter.cpp" line="277"/>
         <source>IRS must be manually reselected
 </source>
-        <translation>你必須手動重新選擇 IRS 文件
+        <translation>你必须手动重新选择 IRS 文件
 </translation>
     </message>
     <message>
@@ -701,77 +700,77 @@ While this GUI is still backward-compatible, I recommend you to upgrade to the A
     <message>
         <location filename="../misc/presetprovider.cpp" line="77"/>
         <source>Extreme Headphone (v2)</source>
-        <translation>至尊耳机 (v2)</translation>
+        <translation>至尊头戴式耳机 (v2)</translation>
     </message>
     <message>
         <location filename="../misc/presetprovider.cpp" line="78"/>
         <source>High-end Headphone (v2)</source>
-        <translation>高端耳机 (v2)</translation>
+        <translation>高端头戴式耳机 (v2)</translation>
     </message>
     <message>
         <location filename="../misc/presetprovider.cpp" line="79"/>
         <source>Common Headphone (v2)</source>
-        <translation>普通耳机 (v2)</translation>
+        <translation>普通头戴式耳机 (v2)</translation>
     </message>
     <message>
         <location filename="../misc/presetprovider.cpp" line="80"/>
         <source>Low-end Headphone (v2)</source>
-        <translation>低端耳机 (v2)</translation>
+        <translation>低端头戴式耳机 (v2)</translation>
     </message>
     <message>
         <location filename="../misc/presetprovider.cpp" line="81"/>
         <source>Common Earphone (v2)</source>
-        <translation>普通耳机 (v2)</translation>
+        <translation>普通入耳式耳机 (v2)</translation>
     </message>
     <message>
         <location filename="../misc/presetprovider.cpp" line="82"/>
         <source>Extreme Headphone (v1)</source>
-        <translation>至尊耳机 (v1)</translation>
+        <translation>至尊头戴式耳机 (v1)</translation>
     </message>
     <message>
         <location filename="../misc/presetprovider.cpp" line="83"/>
         <source>High-end Headphone (v1)</source>
-        <translation>高端耳机 (v1)</translation>
+        <translation>高端头戴式耳机 (v1)</translation>
     </message>
     <message>
         <location filename="../misc/presetprovider.cpp" line="84"/>
         <source>Common Headphone (v1)</source>
-        <translation>普通耳机 (v1)</translation>
+        <translation>普通头戴式耳机 (v1)</translation>
     </message>
     <message>
         <location filename="../misc/presetprovider.cpp" line="85"/>
         <source>Common Earphone (v1)</source>
-        <translation>普通耳机 (v1)</translation>
+        <translation>普通入耳式耳机 (v1)</translation>
     </message>
     <message>
         <location filename="../misc/presetprovider.cpp" line="86"/>
         <source>Apple Earphone</source>
-        <translation>苹果耳机</translation>
+        <translation>苹果入耳式耳机</translation>
     </message>
     <message>
         <location filename="../misc/presetprovider.cpp" line="87"/>
         <source>Monster Earphone</source>
-        <translation>怪物耳机</translation>
+        <translation>怪物入耳式耳机</translation>
     </message>
     <message>
         <location filename="../misc/presetprovider.cpp" line="88"/>
         <source>Moto Earphone</source>
-        <translation>摩托耳机</translation>
+        <translation>摩托入耳式耳机</translation>
     </message>
     <message>
         <location filename="../misc/presetprovider.cpp" line="89"/>
         <source>Philips Earphone</source>
-        <translation>飞利浦耳机</translation>
+        <translation>飞利浦入耳式耳机</translation>
     </message>
     <message>
         <location filename="../misc/presetprovider.cpp" line="90"/>
         <source>SHP2000</source>
-        <translation>SHP2000</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../misc/presetprovider.cpp" line="91"/>
         <source>SHP9000</source>
-        <translation>SHP9000</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../misc/presetprovider.cpp" line="92"/>
@@ -899,7 +898,7 @@ While this GUI is still backward-compatible, I recommend you to upgrade to the A
     <message>
         <location filename="../dialog/settingsdlg.cpp" line="103"/>
         <source>Gray</source>
-        <translation>灰色</translation>
+        <translation>灰紫色</translation>
     </message>
     <message>
         <location filename="../dialog/settingsdlg.cpp" line="104"/>
@@ -929,7 +928,7 @@ While this GUI is still backward-compatible, I recommend you to upgrade to the A
     <message>
         <location filename="../dialog/settingsdlg.cpp" line="109"/>
         <source>Custom</source>
-        <translation>风俗</translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <location filename="../dialog/settingsdlg.cpp" line="162"/>
@@ -941,7 +940,7 @@ While this GUI is still backward-compatible, I recommend you to upgrade to the A
         <source>This fix kills GLava (desktop visualizer) and restarts it after a new config has been applied.
 This prevents GLava to switch to another audio sink, while V4L is restarting.</source>
         <translation>此修复程序会(Kill)杀死 GLava（桌面可视化器）并在应用新配置后重新启动它。
-这可以防止 GLava 在 V4L 重新启动时切换到另一个音频接收器。</translation>
+这可以防止 GLava 在重新启动时切换到另一个音频接收器。</translation>
     </message>
     <message>
         <location filename="../dialog/settingsdlg.cpp" line="332"/>
@@ -951,7 +950,7 @@ This prevents GLava to switch to another audio sink, while V4L is restarting.</s
     <message>
         <location filename="../dialog/settingsdlg.cpp" line="332"/>
         <source>Do you really want to restore the default layout?</source>
-        <translation>您真的要恢复默认布局吗？</translation>
+        <translation>真的要恢复默认布局吗？</translation>
     </message>
     <message>
         <location filename="../dialog/settingsdlg.cpp" line="405"/>
@@ -1015,17 +1014,17 @@ This prevents GLava to switch to another audio sink, while V4L is restarting.</s
         <location filename="../dialog/statusfragment.ui" line="195"/>
         <location filename="../dialog/statusfragment.ui" line="223"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../dialog/statusfragment.cpp" line="30"/>
         <source>Processing</source>
-        <translation>加工</translation>
+        <translation>处理中</translation>
     </message>
     <message>
         <location filename="../dialog/statusfragment.cpp" line="30"/>
         <source>Not processing</source>
-        <translation>不处理</translation>
+        <translation>未处理</translation>
     </message>
     <message>
         <location filename="../dialog/statusfragment.cpp" line="32"/>
@@ -1053,8 +1052,7 @@ This prevents GLava to switch to another audio sink, while V4L is restarting.</s
     <message>
         <location filename="../viper_window.ui" line="159"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;ViPER Bass/Fidelity Control&lt;/span&gt;&lt;/p&gt;&lt;p&gt;It’s a substitution for XHiFi’s Audio Reconstruction. It handles bass of the sound.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bass Mode:&lt;/span&gt; Natural, Pure bass+ and Sub-woofer.&lt;br/&gt;Natural bass is like V4A XHiFi’s Lo Contour. Purebass+ gives clean bass. Sub-woofer gives huge bass.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bass Frequency&lt;/span&gt;: Adjust bass frequency. Recommended at least 60Hz for both modes.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bass Boost&lt;/span&gt;: Volume of ViPER Bass. Recommended at least 6dB for Natural, at least 8dB for Pure bass+&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translatorcomment>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;ViPER Bass/Fidelity Control&lt;/span&gt;&lt;/p&gt;&lt;p&gt;这是一个 替代 XHiFi 的音频重构。 它处理声音的低音。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;低音模式：&lt;/span&gt;自然、纯低音+和低音炮。&lt;br/&gt;自然低音是 就像 V4A XHiFi 的 Lo Contour 一样。 Purebass+ 提供清晰的低音。 低音炮产生巨大的低音。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;低音频率&lt;/span&gt;：调整低音频率。 建议在两种模式下至少使用 60Hz。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bass Boost&lt;/span&gt;：ViPER 低音的音量。 推荐自然至少 6dB，纯低音至少 8dB+&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translatorcomment>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;ViPER 低音/保真度控制&lt;/span&gt;&lt;/p&gt;&lt;p&gt;它用于替代 XHiFi 的音频重构，以处理低音。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;低音模式：&lt;/span&gt;自然、纯低音+和低音炮。&lt;br/&gt;自然低音就像 V4A XHiFi 的 Lo Contour 一样。 纯低音+ 提供清晰的低音。 低音炮产生巨大的低音。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;低音频率&lt;/span&gt;：调整低音频率。 建议这两种模式的最低值取 60Hz。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;低音增强&lt;/span&gt;：ViPER 低音的音量。 推荐自然至少 6dB，纯低音至少 8dB+&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;ViPER 低音/保真度控制&lt;/span&gt;&lt;/p&gt;&lt;p&gt;它用于替代 XHiFi 的音频重构，以处理低音。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;低音模式：&lt;/span&gt;自然、纯低音+和低音炮。&lt;br/&gt;自然低音就像 V4A XHiFi 的 Lo Contour 一样。 纯低音+ 提供清晰的低音。 低音炮产生巨大的低音。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;低音频率：&lt;/span&gt;调整低音频率。 建议这两种模式的最低值取 60Hz。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;低音增强：&lt;/span&gt;ViPER 低音的音量。 推荐自然至少 6dB，纯低音+至少 8dB&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../viper_window.ui" line="162"/>
@@ -1104,7 +1102,7 @@ This prevents GLava to switch to another audio sink, while V4L is restarting.</s
     <message>
         <location filename="../viper_window.ui" line="288"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Tube Simulator (6N1J)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;This option defines whether to enable the tube simulator effect. Viper&apos;s tube simulator uses a simplified mathematical simulation of tube effect.&lt;/p&gt;&lt;p&gt;If turned on, it will significantly reduce high-frequency odd harmonic distortions, while increases even-order harmonic distortions of tube simulator.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;电子管模拟 (6N1J)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;这个选项定义了是否启用电子管模拟器效果。 Viper的电子管模拟器使用电子管效应的简化数学模拟。&lt;/p&gt;&lt;p&gt;如果开启，它将显着降低高频奇次谐波失真，同时增加电子管模拟器的偶次谐波失真。&lt;/p&gt;&lt; /正文&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;电子管模拟 (6N1J)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;这个选项定义了是否启用电子管模拟器效果。 Viper的电子管模拟器使用电子管效应的简化数学模拟。&lt;/p&gt;&lt;p&gt;如果开启，它将显着降低高频奇次谐波失真，同时增加电子管模拟器的偶次谐波失真。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../viper_window.ui" line="291"/>
@@ -1114,8 +1112,7 @@ This prevents GLava to switch to another audio sink, while V4L is restarting.</s
     <message>
         <location filename="../viper_window.ui" line="318"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;ViPER Clarity/Fidelity Control&lt;/span&gt;&lt;/p&gt;&lt;p&gt;It’s a substitution for XHiFi’s Audio Reconstruction. It handles the clarity of the sound.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Clarity Mode:&lt;/span&gt; Natural, OZone+ and XHiFi offers three different types of clarity.&lt;br/&gt;Natural has high vocal and treble. OZone+ offers clean clarity. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Clarity Strength:&lt;/span&gt; Volume of ViPER Clarity. Recommended at least 3.5dB for Natural, at least 8dB for OZone+, at least 2dB for XHiFi.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translatorcomment>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;ViPER Clarity/Fidelity Control&lt;/span&gt;&lt;/p&gt;&lt;p&gt;这是一个 替代 XHiFi 的 Audio Reconstruction。 它处理声音的清晰度。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;清晰度模式：&lt;/span&gt; Natural、OZone+ 和 XHiFi 提供三种不同类型的清晰度。&lt;br/ &gt;Natural 具有高音和高音。 OZone+ 提供干净的清晰度。 &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;清晰度强度：&lt;/span&gt; ViPER 清晰度的体积。 建议 Natural 至少 3.5dB，OZone+ 至少 8dB，XHiFi 至少 2dB。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translatorcomment>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;ViPER 清晰度/保真度控制&lt;/span&gt;&lt;/p&gt;&lt;p&gt; 这是一个替代 XHiFi 的音频重构以处理声音的清晰度。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;清晰度模式：&lt;/span&gt; 自然、臭氧+ 和 XHiFi 提供三种不同类型的清晰度。&lt;br/&gt;“自然”具有高音和高音。 OZone+ 提供较高的清晰度。 &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;清晰度强度：&lt;/span&gt; ViPER 清晰度的体积。 推荐“自然”至少 3.5dB，OZone+ 至少 8dB，XHiFi 至少 2dB。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;ViPER 清晰度/保真度控制&lt;/span&gt;&lt;/p&gt;&lt;p&gt; 这是一个替代 XHiFi 的音频重构以处理声音的清晰度。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;清晰度模式：&lt;/span&gt; 自然、臭氧+ 和 XHiFi 提供三种不同类型的清晰度。&lt;br/&gt;“自然”优化高音音色和其顿挫感。臭氧+提供较高的清晰度。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;清晰度强度：&lt;/span&gt; ViPER 清晰度的推荐，“自然”至少 3.5dB，臭氧+ 至少 8dB，XHiFi 至少 2dB。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../viper_window.ui" line="321"/>
@@ -1139,7 +1136,7 @@ This prevents GLava to switch to another audio sink, while V4L is restarting.</s
         <location filename="../viper_window.cpp" line="808"/>
         <location filename="../viper_window.cpp" line="1319"/>
         <source>XHiFi</source>
-        <translation>XHiFi</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../viper_window.ui" line="386"/>
@@ -2158,7 +2155,7 @@ and try to restart it manually</source>
     <message>
         <location filename="../dialog/menueditor.ui" line="79"/>
         <source>&amp;Up</source>
-        <translation>&amp;Up</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../dialog/menueditor.ui" line="114"/>
@@ -2173,7 +2170,7 @@ and try to restart it manually</source>
     <message>
         <location filename="../dialog/menueditor.ui" line="120"/>
         <source>&amp;Down</source>
-        <translation>&amp;Down</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../dialog/menueditor.ui" line="168"/>
@@ -2203,7 +2200,7 @@ and try to restart it manually</source>
     <message>
         <location filename="../dialog/menueditor.ui" line="215"/>
         <source>&amp;Del</source>
-        <translation>&amp;Del</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../dialog/menueditor.ui" line="245"/>
@@ -2236,12 +2233,12 @@ and try to restart it manually</source>
     <message>
         <location filename="../dialog/palettedlg.ui" line="43"/>
         <source>Base Color</source>
-        <translation>基本颜色</translation>
+        <translation>基本色</translation>
     </message>
     <message>
         <location filename="../dialog/palettedlg.ui" line="56"/>
         <source>Background Color</source>
-        <translation>背景颜色</translation>
+        <translation>背景色</translation>
     </message>
     <message>
         <location filename="../dialog/palettedlg.ui" line="69"/>
@@ -2251,7 +2248,7 @@ and try to restart it manually</source>
     <message>
         <location filename="../dialog/palettedlg.ui" line="108"/>
         <source>Close</source>
-        <translation>前景色</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <location filename="../dialog/palettedlg.ui" line="121"/>

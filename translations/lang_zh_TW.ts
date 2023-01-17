@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="zh_HK">
+<TS version="2.1" language="zh_TW">
 <context>
     <name>AndroidImporterDlg</name>
     <message>
@@ -1112,7 +1112,7 @@ This prevents GLava to switch to another audio sink, while V4L is restarting.</s
     <message>
         <location filename="../viper_window.ui" line="318"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;ViPER Clarity/Fidelity Control&lt;/span&gt;&lt;/p&gt;&lt;p&gt;It’s a substitution for XHiFi’s Audio Reconstruction. It handles the clarity of the sound.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Clarity Mode:&lt;/span&gt; Natural, OZone+ and XHiFi offers three different types of clarity.&lt;br/&gt;Natural has high vocal and treble. OZone+ offers clean clarity. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Clarity Strength:&lt;/span&gt; Volume of ViPER Clarity. Recommended at least 3.5dB for Natural, at least 8dB for OZone+, at least 2dB for XHiFi.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;ViPER 清晰度/保真度控制&lt;/span&gt;&lt;/p&gt;&lt;p&gt;這是一個替代XHiFi的音訊重構以處理聲音的清晰度。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;清晰度模式：&lt;/span&gt;自然、臭氧+和 XHiFi提供三種不同類型的清晰度。&lt;br/&gt;“自然”優化高音音色和其頓挫感。臭氧+提供較高的清晰度。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;清晰度强度：&lt;/span&gt; ViPER 清晰度的推薦，“自然”至少3.5dB，臭氧+至少8dB，XHiFi 至少 2dB。 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;ViPER 清晰度/保真度控制&lt;/span&gt;&lt;/p&gt;&lt;p&gt;這是一個替代 XHiFi 的音頻重構以處理聲音的清晰度。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;清晰度模式：&lt;/span&gt;自然、臭氧+和 XHiFi提供三種不同類型的清晰度。&lt;br/&gt;“自然”優化高音音色和其頓挫感。臭氧+提供較高的清晰度。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;清晰度強度：&lt;/span&gt; ViPER 清晰度的推薦，“自然”至少3.5dB，臭氧+至少8dB，XHiFi 至少 2dB。 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../viper_window.ui" line="321"/>
